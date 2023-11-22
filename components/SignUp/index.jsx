@@ -1,11 +1,18 @@
 import React from "react"
+import styles from '@/components/SignUp/index.module.css'
 
 const SignUp = () => {
     return (
-        <div className={'bg-[#04009A]'}>
-            <h1>sadasda</h1>
-            <h3>asdsad</h3>
-            <h1></h1>
+        <div className={`${styles.container} h-screen `}>
+            <div>
+                <div className={`${styles.frame}`}>
+
+                </div>
+                <div>
+
+                </div>
+            </div>
+            <img className={ `${styles.imag}`} src="" alt="" />
         </div>
     )
 }

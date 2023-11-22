@@ -1,0 +1,16 @@
+.container.container{
+    background: linear-gradient(191.05deg, #263544 7.99%, #405A73 35.42%, #5585B5 76.93%, #79A9D9 93.9%);
+}
+
+.frame{
+    width: 575px;
+    height: 924px;
+    background-color: #0F3D67;
+}
+.image{
+    height: 487px;
+  left: 87px;
+  position: absolute;
+  top: 252px;
+  width: 647px;
+}
