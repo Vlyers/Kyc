@@ -7,7 +7,6 @@ import styles from '@/styles/index.module.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
-  const a = 'bg-red-500'
   return (
     <div className={`${styles.container} h-screen `}>
       <SignIn />
